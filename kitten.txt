@@ -1,0 +1,10 @@
+hi, kitten
+changes
+changes
+i love kittens
+legal text here
+new text
+line 7
+this is now part of the branch!
+this is new text.
+let's stage
